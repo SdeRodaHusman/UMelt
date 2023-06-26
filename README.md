@@ -9,11 +9,11 @@ This repository provides material used for the paper: XXXXX. The paper offers an
 
 Within this GitHub repository, you will find the following components:
 
-**1. Data**
+**1. Data** :file_folder:
 
 The repository includes the UMelt record, which can be accessed through Google Earth Engine as assets or as NetCDFs via 4TU.ResearchData. Additionally, a set of simple scripts are provided to aid in the retrieval of the data.
 
-**2. Scripts**
+**2. Scripts** :page_with_curl:
 
 These scripts were instrumental in the creation of the UMelt model.
 
