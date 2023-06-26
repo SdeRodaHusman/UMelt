@@ -1,4 +1,4 @@
-![image](https://github.com/SdeRodaHusman/UMelt/assets/75474079/b69f5f17-b64f-4676-9df8-a052825e82fa)# UMelt
+# UMelt
 
 ## Author
 **Sophie de Roda Husman** (S.deRodaHusman@tudelft.nl) :woman_cartwheeling:
