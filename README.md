@@ -1,15 +1,15 @@
-<img width="960" alt="image" src="https://github.com/SdeRodaHusman/UMelt/assets/75474079/3c225b44-b1eb-4c4e-a5dd-bc468e38eec0"># UMelt
+# UMelt
 
 ## Author
 **Sophie de Roda Husman** 
 
 PhD candidate at Geoscience and Remote Sensing, Delft University of Technology
 
-:e-mail:: S.deRodaHusman@tudelft.nl
+📧: S.deRodaHusman@tudelft.nl
 
-[:twitter:](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_of_Twitter.svg&psig=AOvVaw08Qynj0AXRPvw4X8HcOURB&ust=1687874054219000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCJqf2K4f8CFQAAAAAdAAAAABAE): https://twitter.com/SdeRodaHusman
+🐦: https://twitter.com/SdeRodaHusman
 
-
+🐱: https://www.tiktok.com/@zuidpool_sophie
 
 
 ## Overview
