@@ -5,11 +5,11 @@
 
 PhD candidate at Geoscience and Remote Sensing, Delft University of Technology
 
-📧: S.deRodaHusman@tudelft.nl
+* 📧: S.deRodaHusman@tudelft.nl
 
-🐦: https://twitter.com/SdeRodaHusman
+* 🐦: https://twitter.com/SdeRodaHusman
 
-🐱: https://www.tiktok.com/@zuidpool_sophie
+* 🐱: https://www.tiktok.com/@zuidpool_sophie
 
 
 ## Overview
