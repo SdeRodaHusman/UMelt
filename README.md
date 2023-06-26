@@ -15,8 +15,7 @@ PhD candidate at Geoscience and Remote Sensing, Delft University of Technology
 ## Overview
 This repository provides material used for the paper: XXXXX. The paper offers an elaborate exposition of the model development. 
 
-Within this GitHub repository, you will find the fol![image](https://github.com/SdeRodaHusman/UMelt/assets/75474079/95763c9f-6bba-4c34-9a40-78422bbaab2b)
-lowing components:
+Within this GitHub repository, you will find the following components:
 
 **1. Data** :bar_chart:
 
