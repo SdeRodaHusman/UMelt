@@ -20,5 +20,6 @@ The U-Net model was deployed, a process commonly referred to as "GEE-ifying" the
 
 **Step 4: Prediction**
 
+This script is used to create the UMelt record, and for all the performance tests. It allows for the customization of the time period and region of interest. The predictions are saved as an Image Collection in a Google Earth asset.
 
---> The script can be used as a Python Notebook
+--> The script can only be used as a Python Script, no Google Colab script is provided (yet..., please contact me in case you are interested!).  
