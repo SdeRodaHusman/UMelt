@@ -15,6 +15,19 @@ You can download the NetCDFs from 4TU.ResearchData via [this link](xxxx).
 
 **2. Download Google Earth Engine assets**
 
-The UMelt record can be imported into Google Earth Engine per melt season:
+The UMelt record can be imported into Google Earth Engine per melt season, the individual predictions (per 12 hours) are stored as bands:
 
-- Melt season 2016-2017: ```ee.ImageCollection('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason1617/UMelt_AllData_MeltSeason1617')```
+- Melt season 2016-2017: ```ee.Image('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason1617/UMelt_AllData_MeltSeason1617')```
+- Melt season 2017-2018: ```ee.Image('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason1718/UMelt_AllData_MeltSeason1718')```
+- Melt season 2018-2019: ```ee.Image('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason1819/UMelt_AllData_MeltSeason1819')```
+- Melt season 2019-2020: ```ee.Image('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason1920/UMelt_AllData_MeltSeason1920')```
+- Melt season 2020-2021: ```ee.Image('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason2021/UMelt_AllData_MeltSeason2021')```
+    
+Also, a 'summer melt occurrence' image per image for each melt season can be imported: 
+- Melt season 2016-2017: ```ee.Image('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason1617/UMelt_MeltFraction_MeltSeason1617')```
+- Melt season 2017-2018: ```ee.Image('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason1718/UMelt_MeltFraction_MeltSeason1718')```
+- Melt season 2018-2019: ```ee.Image('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason1819/UMelt_MeltFraction_MeltSeason1819')```
+- Melt season 2019-2020: ```ee.Image('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason1920/UMelt_MeltFraction_MeltSeason1920')```
+- Melt season 2020-2021: ```ee.Image('projects/phd-detectionsurfacemelt/assets/UMelt_Antarctica/MeltSeason2021/UMelt_MeltFraction_MeltSeason2021')```
+
+Included in this folder is a Google Earth Engine script that demonstrates the process of importing the UMelt assets into Google Earth Engine. 
