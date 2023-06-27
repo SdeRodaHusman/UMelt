@@ -1,4 +1,4 @@
-# Overview of scripts:
+# Overview
 
 **Step 1: Preprocessing**
 
