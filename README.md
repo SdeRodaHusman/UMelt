@@ -17,7 +17,7 @@ Within this GitHub repository, you will find the following components:
 
 **1. Data** :bar_chart:
 
-The repository includes the UMelt record, which can be accessed through Google Earth Engine as assets or as NetCDFs via 4TU.ResearchData. Additionally, a set of simple scripts are provided to aid in the retrieval of the data. The UMelt record is available in two formats: either as a twice-daily resolution or as one product per season, representing the summer melt occurrence.
+The repository includes the UMelt record, which can be accessed through Google Earth Engine as assets or as GeoTIFFs via 4TU.ResearchData. Additionally, a set of simple scripts are provided to aid in the retrieval of the data. The UMelt record is available in two formats: either as a twice-daily resolution or as one product per season, representing the summer melt occurrence.
 
 **2. Scripts** :page_with_curl:
 
