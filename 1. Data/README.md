@@ -6,12 +6,12 @@ Additionally, we provide the 'summer melt occurrence' metric, which represents t
 
 To access the data, you have two options:
 
-- Download the data as NetCDF files from 4TU.ResearchData.
+- Download the data as GeoTIFFs files from 4TU.ResearchData.
 - Import the data as assets directly into Google Earth Engine.
 
-**1. Download NetCDFs**
+**1. Download GeoTIFFs**
 
-You can download the NetCDFs from 4TU.ResearchData via [this link](https://data.4tu.nl/datasets/8a8934ef-9407-406f-8bfb-573eb182ec54/1).
+You can download the GeoTIFFs from 4TU.ResearchData via [this link](https://data.4tu.nl/datasets/8a8934ef-9407-406f-8bfb-573eb182ec54/1).
 
 **2. Download Google Earth Engine assets**
 
