@@ -11,7 +11,7 @@ To access the data, you have two options:
 
 **1. Download NetCDFs**
 
-You can download the NetCDFs from 4TU.ResearchData via [this link](xxxx).
+You can download the NetCDFs from 4TU.ResearchData via [this link](https://data.4tu.nl/datasets/8a8934ef-9407-406f-8bfb-573eb182ec54/1).
 
 **2. Download Google Earth Engine assets**
 
