@@ -11,7 +11,7 @@ PhD candidate at Geoscience and Remote Sensing, Delft University of Technology
 
 
 ## Overview
-This repository provides material used for the paper: XXXXX. The paper offers an elaborate exposition of the model development. 
+This repository provides material used for the paper: **[A high-resolution record of surface melt on Antarctic ice shelves using multi-source remote sensing data and deep learning](https://doi.org/10.1016/j.rse.2023.113950)**. The paper offers an elaborate exposition of the model development.
 
 Within this GitHub repository, you will find the following components:
 
